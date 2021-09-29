@@ -16,3 +16,13 @@ let car2 = Car(make: "Ford", model: "Mondeo", topSpeed: 110, isAutomatic: false,
 print("The \(car1.make) \(car1.model) costs \(car1.price)")
 print("The \(car2.make) \(car2.model) costs \(car2.price)")
 
+/*  
+1) CAN YOU CREATE YOUR OWN STRUCT FOR A PERSON WHICH CONTAINS
+PROPERTIES SUCH AS NAME, AGE, DOB, WEARS GLASSES ETC. 
+
+2) CREATE AT LEAST 2 INSTANCES OF YOUR PERSON STRUCT AND GIVE THE PROPERTIES VALUES
+
+3) USE STRING INTERPOLATION TO PRINT A STATEMENT ABOUT THE PERSON.
+*/
+
+
